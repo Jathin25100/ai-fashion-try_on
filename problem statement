@@ -1,0 +1,9 @@
+PROBLEM STATEMENT
+
+Online fashion shopping has grown rapidly, but customers still face significant challenges in selecting the correct clothing size.
+Most existing virtual try-on systems focus only on showing how a garment looks on a person and do not accurately predict whether it will fit properly.
+As a result, customers often experience uncertainty regarding size, fitting, and overall appearance, leading to high return rates and dissatisfaction.
+Current solutions either require manual body measurements or specialized scanning equipment, making them inconvenient for everyday users.
+This project aims to develop an AI-based system that can estimate key body measurements such as shoulder width, chest size, waist size, and arm length from user images.
+The estimated measurements can then be used to provide personalized size recommendations and improve confidence in online clothing purchases.
+The goal is to make online fashion shopping more accurate, convenient, and reliable.
