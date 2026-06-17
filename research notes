@@ -1,0 +1,44 @@
+# Research Notes
+
+## Existing Solutions
+Q) customer cannot visualise the dress on their own body!!
+--> solution is given my virtual try on
+     limitation:- focus only on appearance, not about body measurements.
+Q) incorrect size selsctions!
+--> brand size charts
+    manual measurement guides
+
+### IDM-VTON
+- Good visual try-on
+- Does not accurately predict fit
+- Warps clothing based on body shape
+
+### Observation
+- Fat users get stretched clothing
+- Thin users get compressed clothing
+- Size recommendation problem remains unsolved
+-no ai model is detecting the shoulder, chest, arm size
+-current virtual try on models just they are pasting the dress on the person, if the person is fat, the dress is getting enlarged and it is getting pasted, like small
+size tshirt becoming xl size and getting pasted on the person, and vice versa, xl size shirt becoming small, and getting just pasted on thin person. thats it.
+-after watching few yt videos- current virtual try on ai systems are just focusing on how would this garmet would look on this person?
+- this is not at all solving the customer problem, the main problem is will this garment fit me correctly and suit to me according to my body shape? 
+
+
+## Research Direction
+-what customer actually want?
+1) will it look good on me?
+--colour
+--style
+--overall appearance
+2) will it fit me 
+--chest length
+--waist length
+--sleeve length
+--shoulder length
+3) which size should i buy?
+--s?
+--m?
+--l?
+--xl?
+
+Develop an AI system capable of estimating body measurements from images.
