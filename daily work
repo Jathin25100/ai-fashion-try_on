@@ -1,0 +1,28 @@
+## What I Learned on June 18, 2026
+
+1. How a web application communicates with a Python backend using Flask.
+
+2. How image uploads are handled in a web application.
+
+3. How MediaPipe Pose Landmarker detects human body landmarks.
+
+4. How OpenCV reads and processes images.
+
+5. How to visualize detected landmarks on an image.
+
+6. How Flask templates work and how HTML pages are rendered.
+
+7. How uploaded files are served back to the browser.
+
+8. How to debug common issues such as:
+
+   * TemplateNotFound errors
+   * File path issues
+   * 404 errors
+   * Image display failures
+
+9. The difference between using a pretrained AI model and training a custom AI model.
+
+10. The core challenge of my project:
+    Converting image-based landmarks into accurate real-world body measurements.
+
